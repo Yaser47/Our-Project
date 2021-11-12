@@ -6,4 +6,5 @@ body {
 	border-radius: 50%;
 	background-color: blue;
 	border: 1px solid;
+	position: absolute;
 }
